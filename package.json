@@ -1,11 +1,11 @@
 {
-    "name": "Standard Notes Distracion Free Writer; based on https://github.com/eenpadvinder/standardnotes-writer/ but without dark theme",
+    "name": "Standard Notes distracion-free writing theme; based on https://github.com/eenpadvinder/standardnotes-writer/ but without dark theme",
     "version": "1.0",
     "sn": {
         "main": " main.css"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/jaal/writer.git"
+        "url": "git://github.com/jaal/distraction-free-writing-theme.git"
     }
 }
